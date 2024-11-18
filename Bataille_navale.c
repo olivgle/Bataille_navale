@@ -6,6 +6,13 @@
 #include <unistd.h>
 #include <time.h>
 
+
+
+
+
+
+
+
 #define WHITE 7
 #define BLUE 3
 #define LBLUE 9
